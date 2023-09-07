@@ -13,9 +13,7 @@ function App() {
           className="App-link"
           href="https://github.com/shivamrai27"
           target="_blank"
-          rel="noopener noreferrer"
-
-        >
+          rel="noopener noreferrer" >
           5S
         </a>
       </header>
